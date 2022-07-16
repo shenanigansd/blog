@@ -1,2 +1,3 @@
 # blog
-Why not? Everyone else is doing it.
+
+TODO: What should I write about?
